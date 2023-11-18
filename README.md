@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EslamHany2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="205" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EslamHany2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="183" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EslamHany2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="185" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=EslamHany2002&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="182" alt="streak graph"  />
 </div>
 
